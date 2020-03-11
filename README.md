@@ -6,3 +6,7 @@
 game **brain-even**:
 
 [![asciicast](https://asciinema.org/a/zjLWUpdNIxHx5DQyKk4XVSY1e.svg)](https://asciinema.org/a/zjLWUpdNIxHx5DQyKk4XVSY1e)
+
+game **brain-calc**:
+
+[![asciicast](https://asciinema.org/a/mWhiXJkCIGXGa0aHy73JTXEyV.svg)](https://asciinema.org/a/mWhiXJkCIGXGa0aHy73JTXEyV)

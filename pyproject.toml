@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "alezi06_brain_games"
-version = "0.3.0"
+version = "0.4.0"
 description = ""
 authors = ["Your Name <you@example.com>"]
 packages = [
@@ -9,6 +9,7 @@ packages = [
 
 [tool.poetry.scripts]
 brain-even = "brain_games.scripts.brain_even:main"
+brain-calc = "brain_games.scripts.brain_calc:main"
 
 [tool.poetry.dependencies]
 python = "^3.8"
