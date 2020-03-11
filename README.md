@@ -10,3 +10,7 @@ game **brain-even**:
 game **brain-calc**:
 
 [![asciicast](https://asciinema.org/a/mWhiXJkCIGXGa0aHy73JTXEyV.svg)](https://asciinema.org/a/mWhiXJkCIGXGa0aHy73JTXEyV)
+
+game **brain-gcd**:
+
+[![asciicast](https://asciinema.org/a/WNh9XwHFB7BnMeaH9FkMtweRa.svg)](https://asciinema.org/a/WNh9XwHFB7BnMeaH9FkMtweRa)
