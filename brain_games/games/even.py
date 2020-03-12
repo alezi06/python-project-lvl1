@@ -9,8 +9,9 @@ def _is_even(num):
 
 
 def _get_question_answer():
-    question = random.randint(1, 100)
-    answer = 'yes' if _is_even(question) else 'no'
+    num = random.randint(1, 100)
+    answer = 'yes' if _is_even(num) else 'no'
+    question = str(num)
     return (question, answer)
 
 
