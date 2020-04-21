@@ -3,14 +3,14 @@ import brain_games.cli as cli
 ROUNDS_COUNT = 3
 
 
-def run_game(message, get_game_data):
-    cli.welcome_game(message)
+def run(game):
+    cli.welcome_game(game.MESSAGE)
     user_name = cli.get_user_name()
     cli.welcome_user(user_name)
 
     counter = 0
     while counter < ROUNDS_COUNT:
-        question, answer = get_game_data()
+        question, answer = game.round()
 
         cli.print_question(question)
         player_answer = cli.get_player_answer()

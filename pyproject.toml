@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "alezi06_brain_games"
-version = "0.8.0"
+version = "0.9.0"
 description = "Set of mini games"
 authors = ["Alexander Zuev <alezi06@mail.ru>"]
 packages = [
